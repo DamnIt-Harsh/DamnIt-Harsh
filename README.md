@@ -26,7 +26,7 @@ I am Harsh Vasisht 😃. I am from New Delhi, India and currently pursing my B.T
 * AI Researcher at STMicroelectronics
 ## ⚡ Technologies
 Talk to me about:
-- Tech-Stack: **AI, Javascript, ML, Python, Deep Learning, R**.
+- Tech-Stack: **AI, Javascript, ML, Python, Deep Learning, R, Quantum Machine Learning ⚛**.
 - Backend development using **Flask, Django**.
 - Making for **Relational Database Management Systems**.
 - Desktop application development using **Flutter** (Still learning).
