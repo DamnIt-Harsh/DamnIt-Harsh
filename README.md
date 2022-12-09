@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-**DamnIt-Harsh/DamnIt-Harsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **DamnIt-Harsh/DamnIt-Harsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 <p align="center">
   <br>
   <br>
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 </p>
 
 ------------
-<p align="center">⭐️ From <a href="https://github.com/selimdoyranli">@selimdoyranli</a></p>-->
+<p align="center">⭐️ From <a href="https://github.com/DamnIt-Harsh/">@sHarsh</a></p>
