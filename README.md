@@ -32,7 +32,7 @@ Talk to me about:
 - Creating scalable cloud architecture using **AWS Cloud**.
 - Solving Data structure and algorithm questions in **Java and Python**.
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=DamnIt-Harsh&hide=["issues"]&show_icons=true)
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=HarshVasisht&hide=["issues"]&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=DamnIt-Harsh.DamnIt-Harsh)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=HarshVasisht.HarshVasisht)
 
