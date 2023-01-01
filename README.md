@@ -18,7 +18,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@HarshVasisht-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/HarshVasisht)](https://twitter.com/HarshVasisht) [![Linkedin Badge](https://img.shields.io/badge/-HarshVasisht-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/HarshVasisht/)](https://www.linkedin.com/in/HarshVasisht/) [![Gmail Badge](https://img.shields.io/badge/-HarryVasisht@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:HarryVasisht@gmail.com)](mailto:HarryVasisht@gmail.com)
 
-I am Harsh Vasisht 😃. I am an Indian based Junior and majoring in Artificial Intelligence from Gautam Buddha University, Greater Noida 🏫. Currently exploring, Quantum Neural Network 🧠.
+I am Harsh Vasisht (www.harsh.ai.in) 😃. I am an Indian based Junior and majoring in Artificial Intelligence from Gautam Buddha University, Greater Noida 🏫. Currently exploring, Quantum Neural Network 🧠. 
 ## 👯 Communities
 * GDSC AI/ML Lead.
 * iNeuron Campus Tech Leader
