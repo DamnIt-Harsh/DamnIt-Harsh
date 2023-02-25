@@ -20,6 +20,7 @@
 
 I am Harsh Vasisht (www.harsh.ai.in) 😃. I am an Indian based Junior and majoring in Artificial Intelligence from Gautam Buddha University, Greater Noida 🏫. Currently exploring, Quantum Neural Network 🧠. 
 ## 👯 Communities
+* DRDO Intern.
 * GDSC AI/ML Lead.
 * iNeuron Campus Tech Leader
 * OpenAI Community Member
